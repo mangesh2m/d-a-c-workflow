@@ -8,4 +8,10 @@ Find below a summary of the most-used Markdown syntax:
 
 ## Markdown Cheat Sheet
 
-Using one asterisk (*) or underscore (_) before and after content renders it as *italic* (for emphasis), while using two asterisks (**) or underscores (__) renders it as **bold** (for strong). Pretty simple!
+### Styling
+Using one asterisk (`*`) or underscore (`_`) before and after content renders it as *italic* (for emphasis), while using two asterisks (`**`) or underscores (`__`) renders it as **bold** (for strong). Pretty simple!
+
+Adding (`>`) before the content renders it as a 
+> quoted text
+
+### Lists
