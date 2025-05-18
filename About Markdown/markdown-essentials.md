@@ -1,5 +1,3 @@
-# Markdown Essentials
-
 ## Introduction
 
 With the rise of the _docs-as-code_ approach in documentation, Markdown has proven to be an essential backbone, allowing both developers and technical writers to contribute to documentation without complex tags and formatting or specialized authoring tools.
