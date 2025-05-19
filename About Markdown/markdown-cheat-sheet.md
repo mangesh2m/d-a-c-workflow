@@ -19,4 +19,19 @@ Below is a summary of the most-used Markdown syntax, which also includes select 
 
 ### Lists
 
-1. Ordered Lists
+Lists can be ordered and unordered.
+
+I. For **ordered** lists, simply use (`.`) at the start of a list to begin the numbering order. It usually doesn't matter _which_ number you use preceding it, since Markdown auto assigns it.
+
+   1. Item 1
+   2. Item 2
+   4. Item 3
+
+II. For **unordered** lists, use any of these characters preceding the list items :  (`+`), (`-`), or (`*`)
+
+
+
+
+
+
+   
