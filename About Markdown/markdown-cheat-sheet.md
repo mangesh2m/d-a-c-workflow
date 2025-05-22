@@ -10,7 +10,7 @@ Below is a summary of the most-used Markdown syntax, which also includes select 
 
 ### Styling
 
-1. Using one asterisk (`*`) or underscore (`_`) before and after content renders it in italics (e.g., *italic*); using two renders it bold (e.g., **bold**).
+1. Using one asterisk (`*`) or underscore (`_`) before and after content renders it in italics (e.g., *italic*); using two renders it bold (e.g., **bold**). You can also _combine_ these two for ***super important*** phrases!
 
 2. Starting a line with a greater-than sign (`>`) renders it as a blockquote.
    > A quote here
