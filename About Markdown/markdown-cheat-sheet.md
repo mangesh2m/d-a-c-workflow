@@ -27,7 +27,7 @@ I. For **ordered** lists, simply use (`.`) at the start of a list to begin the n
 
    |Input|Output|
    |---|---|
-  |<pre><code>1. First item&#x0A;1. Second item&#x0A;1. Third item</code></pre>| 1. First item<br>2. Second item<br>3. Third item| 
+  |<pre><code>1. First item&#x0A;5. Second item&#x0A;8. Third item</code></pre>| 1. First item<br>2. Second item<br>3. Third item| 
              
   
 
