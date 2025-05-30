@@ -23,11 +23,11 @@ Below is a summary of the most-used Markdown syntax, which also includes select 
 
 Lists can be ordered and unordered.
 
-I. For **ordered** lists, simply use (`.`) at the start of a list to begin the numbering order. It usually doesn't matter _which_ number you use preceding it, since Markdown auto assigns it in sequence.
+I. For **ordered** lists, simply use a number followed by a period (`.`) and a space at the start of a list item. It usually doesn't matter _which_ number you use preceding it (e.g., 1., 5.), since Markdown will automatically assign consecutive numbers in the final output.
 
    |Input|Output|
    |---|---|
-  |<pre><code>1. First item&#x0A;5. Second item&#x0A;8. Third item</code></pre>| 1. First item<br>2. Second item<br>3. Third item| 
+  |<pre><code>1. First item&#x0A;5. Second item&#x0A;8. Third item</code></pre>| 1. First item<br>2. Second item<br>3. Third item|
              
   
 
