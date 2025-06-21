@@ -30,7 +30,7 @@ I. For **ordered** lists, simply use a number followed by a period (`.`) and a s
   |<pre><code>1. First item&#x0A;5. Second item&#x0A;8. Third item</code></pre>| 1. First item<br>2. Second item<br>3. Third item|
 
 > [!NOTE]
-> Markdown natively does NOT support formatting of text like you see above in the table, so I have embedded raw HTML tags to achieve the desired appearance.
+> Markdown natively does NOT support formatting of text like you see in the table above, so I have embedded raw HTML tags to achieve the desired appearance.
   
 
    
