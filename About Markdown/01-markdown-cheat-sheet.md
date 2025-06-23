@@ -32,8 +32,6 @@ I. For **ordered** lists, simply use a number followed by a period (`.`) and a s
 > [!NOTE]
 > Markdown natively does NOT support formatting of text like you see in the table above, so I have embedded raw HTML tags to achieve the desired appearance.
   
-
-   
 II. For **unordered** lists, use any of these characters preceding the list items :  (`+`), (`-`), or (`*`)
 
 
